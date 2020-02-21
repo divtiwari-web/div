@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is FA9A-F935
+
+ Directory of C:\Users\divtiwar\Desktop\project
+
+22-02-2020  02:37    <DIR>          .
+22-02-2020  02:37    <DIR>          ..
+22-02-2020  02:37                 0 a.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  213,015,879,680 bytes free
